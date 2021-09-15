@@ -76,5 +76,8 @@ Good job your bot is done!
 
 # Now time for making it run
 
+# Help
 
+If you need any help join
+https://discord.gg/hZACaVsFyA
 
